@@ -1,2 +1,2 @@
-# CS-182
-Deep Learning
+# UCB CS182 Course Project
+* Deep Neural Networks
